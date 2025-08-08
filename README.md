@@ -12,7 +12,7 @@ The plans that were followed were:
 ## How to start the project?
 
 To get started, ensure to follow this step :
-1. Clone the repository in your local PC by running the following command in the folder where you want to clone the project (Make sure you have `[git](https://git-scm.com/)` installed) :
+1. Clone the repository in your local PC by running the following command in the folder where you want to clone the project (Make sure you have **[git](https://git-scm.com/)** installed) :
    ```
    git clone https://github.com/glosings0n/fridgefeast-demo
    ```
