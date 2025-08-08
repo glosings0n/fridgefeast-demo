@@ -13,9 +13,9 @@ The plans that were followed were:
 
 To get started, ensure to follow this step :
 1. Clone the repository in your local PC by running the following command in the folder where you want to clone the project (Make sure you have `[git](https://git-scm.com/)` installed) :
-  ```
-  git clone https://github.com/glosings0n/fridgefeast-demo
-  ```
+   ```
+   git clone https://github.com/glosings0n/fridgefeast-demo
+   ```
 
 2. Run `npm i` to install all necessary dependencies for this project (You should have `npm` installed on your PC)
 3. Generate a *GEMINI API Key* in **[Google AI Studio](https://ai.dev)** for this project
