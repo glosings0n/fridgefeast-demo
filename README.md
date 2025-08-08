@@ -20,6 +20,10 @@ To get started, ensure to follow this step :
 2. Run `npm i` to install all necessary dependencies for this project (You should have `npm` installed on your PC)
 3. Generate a *GEMINI API Key* in **[Google AI Studio](https://ai.dev)** for this project
 4. Then, paste it in an environmental variable named `GEMINI_API_KEY` in the `.env` file that you should create in the root of your project
+5. Finally, to test the app, run :
+   ```
+   npm run dev
+   ```
 
 ---
-`By @glosings0n 2k25`
+By `@glosings0n` 2k25
